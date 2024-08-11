@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FL/520T5NIKWAIBKUEYDXAIU0.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/R4/SNITO86AWKJKCFIAAIRQ9W.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/WDHG301GM4E9BLBNZIA1E6.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WF/N5JF7ENR4798103S1VHRAO.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/22/3NFDVM4C5TW5KZWSOZR5KZ.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6N/JZKOOQNV0RSYL1XXTX4DQB.uasset",
+				"C:/Users/kayla/Documents/GitHub/Unreal_Blueprint_Practice/YourFristHour/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset"
+			]
+		}
+	]
+}
