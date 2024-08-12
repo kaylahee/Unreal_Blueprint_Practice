@@ -52,11 +52,14 @@ UnrealLearningKit 5.4/Binaries/*
 UnrealLearningKit 5.4/Plugins/**/Binaries/*
 OnlineLearningKit 5.4/Binaries/*
 OnlineLearningKit 5.4/Plugins/**/Binaries/*
+StackOBot/Binaries/*
+StackOBot/Plugins/**/Binaries/*
 
 # Builds
 YourFirstHour/Build/*
 UnrealLearningKit 5.4/Build/*
 OnlineLearningKit 5.4/Build/*
+StackOBot/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -73,6 +76,7 @@ Build/*/**
 YourFirstHour/Saved/*
 UnrealLearningKit 5.4/Saved/*
 OnlineLearningKit 5.4/Saved/*
+StackOBot/Saved/*
 
 # Compiled source files for the engine to use
 YourFirstHour/Intermediate/*
@@ -81,8 +85,11 @@ UnrealLearningKit 5.4/Intermediate/*
 UnrealLearningKit 5.4/Plugins/**/Intermediate/*
 OnlineLearningKit 5.4/Intermediate/*
 OnlineLearningKit 5.4/Plugins/**/Intermediate/*
+StackOBot/Intermediate/*
+StackOBot/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 YourFirstHour/DerivedDataCache/*
 UnrealLearningKit 5.4/DerivedDataCache/*
 OnlineLearningKit 5.4/DerivedDataCache/*
+StackOBot/DerivedDataCache/*
